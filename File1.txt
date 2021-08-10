@@ -13,4 +13,8 @@ misza 2
 
 112345
 809
+<<<<<<< HEAD
 love
+=======
+dfsdf
+>>>>>>> c9bb966d22640936b67bca65c8d0f1b1f15a44bd
